@@ -26,7 +26,7 @@ This python3 program uses the cryptography.io library. Please install this using
   ```
 Clone this repo using the following command:
   ```
-  git clone https://github.com/OmarMinawi3/hackfest2019teaser.git
+  git clone https://github.com/OmarMinawi3/Hackfest2019Teaser.git
   ```
 
 <h2>Usage</h2>
