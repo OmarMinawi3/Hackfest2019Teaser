@@ -1,10 +1,9 @@
 <h1>Hackfest 2019 Teaser</h1>
-This is a multi-layerd challenge. Solving the first challenge will lead you to the next one.
+This is a multi-layered challenge. Solving the first challenge will lead you to the next one.
 <br>
+Although it is not required for to complete the entire teaser challenge, successful candidates will be chosen based on their submitted documentation document. <br> Ensure to document and explain your thought process/methodology, including the reasoning behind your selected methods and the intended goal. Your document should describe your process in depth, and include a small paragraph as to why you should be selected/would like to attend HackFest.
 
-Although it is not required for you to complete the entire teaser challenge, candidates will be assessed based on their submitted documetnation. Ensure to document and explain your thought process/methadology, including the reasoning behind your selected avenue and the intended goal. Your document should describe your process in depth, and include a small paragraph as to why you should be selected/would like to attend HackFest.
-
-Please submit your documentation file as a pdf to the contacts below by the due date.
+Please submit your documentation file as a pdf to the contacts below by the due date. Ensure to CC all 3 Netsoc executives. 
 
 <h3>Your Netsoc point of contacts are:
   <ul>
