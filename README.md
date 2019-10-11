@@ -1,4 +1,8 @@
-# hacfest2019teaser
+<h1>Hackfest 2019 Teaser</h1>
+This is a multi-layerd challenge. Solving the first challenge will lead you to the next one.
+
+Although it is not required for you to complete the teaser challenge, successful candidates will be chosen based primarily on their thought process, an explanation of what the thought process was; the reasoning behind their selected avenue and the intended goal. Please document your progress, and provide a small paragraph as to why you should be selected/would like to attend HackFest.
+
 
 <h2>Setup/Installation</h2>
 
