@@ -1,7 +1,18 @@
 <h1>Hackfest 2019 Teaser</h1>
 This is a multi-layerd challenge. Solving the first challenge will lead you to the next one.
+<br>
 
-Although it is not required for you to complete the teaser challenge, successful candidates will be chosen based primarily on their thought process, an explanation of what the thought process was; the reasoning behind their selected avenue and the intended goal. Please document your progress, and provide a small paragraph as to why you should be selected/would like to attend HackFest.
+Although it is not required for you to complete the entire teaser challenge, candidates will be assessed based on their submitted documetnation. Ensure to document and explain your thought process/methadology, including the reasoning behind your selected avenue and the intended goal. Your document should describe your process in depth, and include a small paragraph as to why you should be selected/would like to attend HackFest.
+
+Please submit your documentation file as a pdf to the contacts below by the due date.
+
+<h3>Your Netsoc point of contacts are:
+  <ul>
+  <li>Omar Minawi: omar.minawi@ontariotechu.net</li>
+  <li>Mario Woo: sungsuk.woo@ontariotechu.net</li>
+  <li>Dante Cupelli: dante.cupelli@ntariotechu.net</li>
+  </ul>
+  </h3>  
 
 
 <h2>Setup/Installation</h2>
