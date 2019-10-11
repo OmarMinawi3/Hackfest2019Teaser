@@ -24,6 +24,10 @@ This python3 program uses the cryptography.io library. Please install this using
   ```
   pip3 install -r requirements.txt
   ```
+Clone this repo using the following command:
+  ```
+  git clone https://github.com/OmarMinawi3/hackfest2019teaser.git
+  ```
 
 <h2>Usage</h2>
 
