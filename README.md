@@ -41,3 +41,11 @@ A-Z, a-z, 0-9. L47????p6
 Entered password:  netsoc
 Valid: False
 ```
+
+<h2>Note</h2>
+Windows users should be able to use teaser2019.pyc. Linux users (tested on kali and CentOS), use the linux_teaser.pyc file. 
+<br><br>
+The following output is an error. Some mac users may see this. If so, spin up a kali vm for the time being to complete the challenge. 
+```
+RuntimeError: Bad magic number in .pyc file
+```
