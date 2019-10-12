@@ -43,7 +43,7 @@ Valid: False
 ```
 
 <h2>Note</h2>
-<br> This issue has been fixed. Please re-download the repo, and use the teaser2019.py file instead of the .pyc file. </br>
+<b> This issue has been fixed. Please re-download the repo, and use the teaser2019.py file instead of the .pyc file. </b>
 Windows users should be able to use teaser2019.pyc. Linux users (tested on kali and CentOS), use the linux_teaser.pyc file. 
 <br><br>
 The following output is an error. Some mac users may see this. If so, spin up a kali vm for the time being to complete the challenge. 
