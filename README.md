@@ -52,4 +52,4 @@ The following output is an error. Some mac users may see this. If so, spin up a 
 RuntimeError: Bad magic number in .pyc file
 ```
 
-If you still get the above error after running the code on a supported os, please email omar.minawi@ontariotechu.net. In your email, state your os, what commands you typed to run the file, what you have done so far to troubleshoot the issue, and what error you get. 
+If you still get the above error after running the code on a supported os, please email Omar Minawi. In your email, state your os, what commands you typed to run the file, what you have done so far to troubleshoot the issue, and what error you get. 
